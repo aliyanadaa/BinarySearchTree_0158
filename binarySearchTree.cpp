@@ -19,5 +19,8 @@ public:
     Node* ROOT;
     BinaryTree() {
     ROOT = nullptr;
-}
+    }
+    void insert(string element) {
+
+    }
 };
