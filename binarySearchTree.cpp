@@ -13,3 +13,8 @@ public:
     rightChild = r;
     }
 };
+
+class BinaryTree {
+public:
+    Node* ROOT;
+};
